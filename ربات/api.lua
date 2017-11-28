@@ -1,5 +1,5 @@
 tabchi = dofile('./bot/funcation.lua')
-tabchi_id = 392618368
+tabchi_id = 406635482
 ---------------------------------
 
 json = dofile('./libs/JSON.lua')
@@ -13,7 +13,7 @@ http = require "socket.http"
 https = require "ssl.https"
 -----~~~~~~~~~~~~~~~~
 d = dofile('./libs/redis.lua')
-config_sudo = {311704513}
+config_sudo = {271665194}
 function dl_cb(arg, data)
  --vardump(data)
  --vardump(arg)
@@ -140,7 +140,7 @@ local cerner = 'CerNer Team'
 end
           tdcli_function({
       ID = "GetInlineQueryResults",
-      bot_user_id_ = 390586489,
+      bot_user_id_ = 406635482,
       chat_id_ = msg.chat_id_,
       user_location_ = {
         ID = "Location",
