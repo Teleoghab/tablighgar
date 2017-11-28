@@ -1,5 +1,5 @@
 -- Main Bot Framework
---MaraThon Team
+--Teleoghab_team
 local M = {} 
 
 -- There are chat_id, group_id, and channel_id
